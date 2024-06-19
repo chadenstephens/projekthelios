@@ -1,5 +1,4 @@
-# ProjektHelios
-### My Journey Into Tech
+# My Journey Into Tech
 
 - [ ] Develop Logo
 - [ ] Update the website
